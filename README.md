@@ -1,8 +1,7 @@
 # PERTEMUAN 7
-
-## NAMA: DIYAN ARUM M
-## KELAS: TI. 20. A. 1
-## NIM: 312010133
+### NAMA: DIYAN ARUM M
+### KELAS: TI. 20. A. 1
+### NIM: 312010133
 ___________________________________________________________________________________
 
  Pada pertemuan 7 tugas PPT ke-2 ini, saya diberikan beberapa tugas oleh dosen saya yaitu 
@@ -59,3 +58,4 @@ if N>0:
 
     print("bilangan terbesar =",max)
 ```
+
