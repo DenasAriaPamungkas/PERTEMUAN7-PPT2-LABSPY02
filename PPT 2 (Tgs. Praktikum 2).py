@@ -19,4 +19,3 @@ if N>0:
             max=x
 
     print("bilangan terbesar =",max)
-
