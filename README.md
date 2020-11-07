@@ -73,7 +73,13 @@ Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubah
 
 ![Flowchart](https://user-images.githubusercontent.com/72906579/98388431-55f83080-2085-11eb-9e13-0adbdae25e4d.png)
 
-Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu.
+Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. Download lah pada web resminya yaitu 
+```python
+http://www.flowgorithm.org/download/index.htm
+```
+Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
+
+![Download Flow](https://user-images.githubusercontent.com/72906579/98425077-74325080-20c6-11eb-8cc6-4a64210e290a.png)
 
 Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
